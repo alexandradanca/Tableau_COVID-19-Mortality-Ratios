@@ -17,11 +17,11 @@
 </ul>
 <img src="./dashboard.png">
 <h3>Conclusion</h3>
-<p>he analysis of COVID-19 data reveals that the top 4 countries with the highest mortality ratios are:</p>
+<p>The analysis of COVID-19 data reveals that the top 4 countries with the highest mortality ratios are:</p>
 <ul>
 <li><b>Yemen</b> with a mortality ratio of 28.88</li>
 <li><b>Italy</b> at 11.82</li>
 <li><b>Mexico</b> at 10.56</li>
 <li><b>Western</b> Sahara at 10.00</li>
-<ul>
+</ul>
 <p>This highlights significant disparities in outcomes across countries, which could be attributed to differences in healthcare infrastructure, response strategies, population demographics, and testing/reporting accuracy. The dashboard also provides an interactive filter to explore Confirmed Cases, Deaths, and Mortality Ratios by country, offering deeper insights into the global impact of the pandemic.</p>
